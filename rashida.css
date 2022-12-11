@@ -438,6 +438,13 @@ img {
   text-transform: uppercase;
 }
 
+.text-block-1 {
+    color: rgba(19, 20, 26, 0.71);
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+  }
+
 .text-block.home {
   padding-bottom: 30px;
 }
