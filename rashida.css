@@ -432,10 +432,9 @@ img {
 }
 
 .text-block {
-  /* font-family: lato; */
   color: rgba(19, 20, 26, 0.71);
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
